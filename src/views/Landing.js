@@ -3,6 +3,7 @@ import { createUseStyles } from "react-jss";
 import Header from "../components/Header";
 import HowItWork from "../components/HowItWork";
 import About from "../components/About";
+import Sponsors from "../components/Sponsors";
 
 const useStyles = createUseStyles({
   container: {
@@ -19,6 +20,7 @@ export default function Landing() {
       <Header />
       <HowItWork />
       <About />
+      <Sponsors />
     </div>
   );
 }
