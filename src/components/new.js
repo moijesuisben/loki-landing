@@ -1,6 +1,5 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
-import * as variables from "../variables";
 
 const useStyles = createUseStyles({
     something :{

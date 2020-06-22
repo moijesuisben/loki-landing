@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import "./cunia-export/cunia.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Landing from "./views/Landing";
 
