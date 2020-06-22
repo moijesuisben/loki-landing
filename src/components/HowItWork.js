@@ -11,9 +11,10 @@ const useStyles = createUseStyles({
   title: {
     fontSize: "calc(18px + (40 - 18) * ((100vw - 320px) / (1920 - 320)))",
     fontWeight: 800,
-    letterSpacing: 0.4,
+    letterSpacing: 1.4,
     textAlign: "center",
     textTransform: "uppercase",
+    marginBottom: "calc(50px + (135 - 50) * ((100vw - 320px) / (1920 - 320)))"
   },
 });
 

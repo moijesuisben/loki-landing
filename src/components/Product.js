@@ -30,7 +30,7 @@ const useStyles = createUseStyles({
     "& > h3": {
       fontSize: "calc(16px + (24 - 16) * ((100vw - 320px) / (1920 - 320)))",
       fontWeight: 700,
-      letterSpacing: 0.2,
+      letterSpacing: 1.2,
     },
     "& > p": {
       fontSize: "calc(11px + (18 - 11) * ((100vw - 320px) / (1920 - 320)))",

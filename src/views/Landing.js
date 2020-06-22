@@ -2,6 +2,7 @@ import React from "react";
 import { createUseStyles } from "react-jss";
 import Header from "../components/Header";
 import HowItWork from "../components/HowItWork";
+import About from "../components/About";
 
 const useStyles = createUseStyles({
   container: {
@@ -17,6 +18,7 @@ export default function Landing() {
     <div className={classes.container}>
       <Header />
       <HowItWork />
+      <About />
     </div>
   );
 }
