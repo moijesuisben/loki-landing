@@ -1,7 +1,14 @@
 import React from "react";
 import { createUseStyles } from "react-jss";
+import background from "../media/BackgroundContact.png";
 
 const useStyles = createUseStyles({
+  background: {
+    position: "absolute",
+    left: 0,
+    zIndex: -1,
+    marginTop: "-70px",
+  },
   container: {
     display: "flex",
     flexDirection: "column",
@@ -43,15 +50,18 @@ const useStyles = createUseStyles({
 export default function Contact() {
   const classes = useStyles();
   return (
-    <div className={classes.container}>
-      <h2 className={classes.title}>Contact</h2>
-      <p className={classes.text}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua..
-      </p>
-      <a href="#" className={classes.mail}>
-        hello@loki.io
-      </a>
-    </div>
+    <>
+      <img src={background} alt="background" className={classes.background} />
+      <div className={classes.container}>
+        <h2 className={classes.title}>Contact</h2>
+        <p className={classes.text}>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua..
+        </p>
+        <a href="#" className={classes.mail}>
+          hello@loki.io
+        </a>
+      </div>
+    </>
   );
 }

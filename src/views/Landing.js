@@ -5,6 +5,7 @@ import HowItWork from "../components/HowItWork";
 import About from "../components/About";
 import Sponsors from "../components/Sponsors";
 import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 
 const useStyles = createUseStyles({
   container: {
@@ -23,6 +24,7 @@ export default function Landing() {
       <About />
       <Sponsors />
       <Contact />
+      <Footer />
     </div>
   );
 }
