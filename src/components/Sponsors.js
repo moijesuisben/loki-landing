@@ -16,7 +16,7 @@ import aleop from "../media/aleop.png";
 const useStyles = createUseStyles({
   container: {
     marginTop: "110px",
-    border: "1px dotted lightblue",
+    marginBottom:"calc(50px + (285 - 50) * ((100vw - 320px) / (1920 - 320)))",
   },
   title: {
     fontSize: "calc(18px + (40 - 18) * ((100vw - 320px) / (1920 - 320)))",
