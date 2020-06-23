@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/loki-landing/static/css/main.d695be62.chunk.css",
-    "main.js": "/loki-landing/static/js/main.48cd225a.chunk.js",
-    "main.js.map": "/loki-landing/static/js/main.48cd225a.chunk.js.map",
+    "main.js": "/loki-landing/static/js/main.c255ccb6.chunk.js",
+    "main.js.map": "/loki-landing/static/js/main.c255ccb6.chunk.js.map",
     "runtime-main.js": "/loki-landing/static/js/runtime-main.f00942c7.js",
     "runtime-main.js.map": "/loki-landing/static/js/runtime-main.f00942c7.js.map",
     "static/js/2.2a974d23.chunk.js": "/loki-landing/static/js/2.2a974d23.chunk.js",
     "static/js/2.2a974d23.chunk.js.map": "/loki-landing/static/js/2.2a974d23.chunk.js.map",
     "index.html": "/loki-landing/index.html",
-    "precache-manifest.d05c8e54629e76a936b17c387c0e3851.js": "/loki-landing/precache-manifest.d05c8e54629e76a936b17c387c0e3851.js",
+    "precache-manifest.d83f677673d0ea068014b1f2a48d4333.js": "/loki-landing/precache-manifest.d83f677673d0ea068014b1f2a48d4333.js",
     "service-worker.js": "/loki-landing/service-worker.js",
     "static/css/main.d695be62.chunk.css.map": "/loki-landing/static/css/main.d695be62.chunk.css.map",
     "static/js/2.2a974d23.chunk.js.LICENSE.txt": "/loki-landing/static/js/2.2a974d23.chunk.js.LICENSE.txt",
@@ -16,11 +16,11 @@
     "static/media/aleop.png": "/loki-landing/static/media/aleop.b507f85c.png",
     "static/media/background.png": "/loki-landing/static/media/background.a2b9bef4.png",
     "static/media/backgroundAbout.png": "/loki-landing/static/media/backgroundAbout.67f6f356.png",
-    "static/media/bicloo.png": "/loki-landing/static/media/bicloo.1ab2182d.png",
+    "static/media/bicloo.png": "/loki-landing/static/media/bicloo.d829e33b.png",
     "static/media/cunia.css": "/loki-landing/static/media/cunia.debdcb95.woff2",
-    "static/media/frenchTech.png": "/loki-landing/static/media/frenchTech.da5c8566.png",
+    "static/media/frenchTech.png": "/loki-landing/static/media/frenchTech.85c69fcb.png",
     "static/media/heetch.png": "/loki-landing/static/media/heetch.03ef99d4.png",
-    "static/media/jcdecaux.png": "/loki-landing/static/media/jcdecaux.152f3725.png",
+    "static/media/jcdecaux.png": "/loki-landing/static/media/jcdecaux.aeccb1ce.png",
     "static/media/lime.png": "/loki-landing/static/media/lime.7ffc1d95.png",
     "static/media/logo.png": "/loki-landing/static/media/logo.f38383a7.png",
     "static/media/marguerite.png": "/loki-landing/static/media/marguerite.3bfef63c.png",
@@ -29,13 +29,12 @@
     "static/media/mobileDots.png": "/loki-landing/static/media/mobileDots.392b59b4.png",
     "static/media/sncf.png": "/loki-landing/static/media/sncf.de1e9566.png",
     "static/media/star.png": "/loki-landing/static/media/star.514078a5.png",
-    "static/media/tan.png": "/loki-landing/static/media/tan.0ad40bad.png",
-    "static/media/uber.png": "/loki-landing/static/media/uber.ee430489.png"
+    "static/media/tan.png": "/loki-landing/static/media/tan.28537383.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f00942c7.js",
     "static/js/2.2a974d23.chunk.js",
     "static/css/main.d695be62.chunk.css",
-    "static/js/main.48cd225a.chunk.js"
+    "static/js/main.c255ccb6.chunk.js"
   ]
 }

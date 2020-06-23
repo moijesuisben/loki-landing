@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb36ea3df3aad2d68fe2f2a940a8c70a",
+    "revision": "1dd0bb24444b534e9433bb86d75001c6",
     "url": "/loki-landing/index.html"
   },
   {
-    "revision": "f99aa7f1ab35ec1ae624",
+    "revision": "8962a4b8ef2c18a92778",
     "url": "/loki-landing/static/css/main.d695be62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loki-landing/static/js/2.2a974d23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f99aa7f1ab35ec1ae624",
-    "url": "/loki-landing/static/js/main.48cd225a.chunk.js"
+    "revision": "8962a4b8ef2c18a92778",
+    "url": "/loki-landing/static/js/main.c255ccb6.chunk.js"
   },
   {
     "revision": "859f6333c6bbf89678db",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loki-landing/static/media/backgroundAbout.67f6f356.png"
   },
   {
-    "revision": "1ab2182d9102f514796780d4ab4fd3a9",
-    "url": "/loki-landing/static/media/bicloo.1ab2182d.png"
+    "revision": "d829e33b69b295a929e279d351604eec",
+    "url": "/loki-landing/static/media/bicloo.d829e33b.png"
   },
   {
     "revision": "57140fe257b9f70cdca5eddf77a59552",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loki-landing/static/media/cunia.debdcb95.woff2"
   },
   {
-    "revision": "da5c8566f25b0ba0b638d74e028a602a",
-    "url": "/loki-landing/static/media/frenchTech.da5c8566.png"
+    "revision": "85c69fcb5a44b94e69d3512b0033b8f6",
+    "url": "/loki-landing/static/media/frenchTech.85c69fcb.png"
   },
   {
     "revision": "03ef99d40ca594b16382e30f4cfd9689",
     "url": "/loki-landing/static/media/heetch.03ef99d4.png"
   },
   {
-    "revision": "152f372555ce0bb4c034cb50bce09929",
-    "url": "/loki-landing/static/media/jcdecaux.152f3725.png"
+    "revision": "aeccb1ce2ce19b5e8d7875538f0309ce",
+    "url": "/loki-landing/static/media/jcdecaux.aeccb1ce.png"
   },
   {
     "revision": "7ffc1d952093b0930dd0db4bada419e7",
@@ -96,11 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loki-landing/static/media/star.514078a5.png"
   },
   {
-    "revision": "0ad40bad823e696c4580600991509694",
-    "url": "/loki-landing/static/media/tan.0ad40bad.png"
-  },
-  {
-    "revision": "ee430489d1505483166c19ab9ed00d4e",
-    "url": "/loki-landing/static/media/uber.ee430489.png"
+    "revision": "28537383edbe4d0ceb61548e628e4d79",
+    "url": "/loki-landing/static/media/tan.28537383.png"
   }
 ]);
