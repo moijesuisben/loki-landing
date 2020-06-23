@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dd0bb24444b534e9433bb86d75001c6",
+    "revision": "2bc4a80f2778da5a0d6eba5c3c7a27ef",
     "url": "/loki-landing/index.html"
   },
   {
-    "revision": "8962a4b8ef2c18a92778",
+    "revision": "ee0d6d02894e4afc5bd0",
     "url": "/loki-landing/static/css/main.d695be62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loki-landing/static/js/2.2a974d23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8962a4b8ef2c18a92778",
-    "url": "/loki-landing/static/js/main.c255ccb6.chunk.js"
+    "revision": "ee0d6d02894e4afc5bd0",
+    "url": "/loki-landing/static/js/main.b35707be.chunk.js"
   },
   {
     "revision": "859f6333c6bbf89678db",
