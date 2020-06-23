@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1231dbb77417b6c9a08aad3429e4ada",
+    "revision": "16fb2d1f277c733754bcef99e8a22f4b",
     "url": "/loki-landing/index.html"
   },
   {
-    "revision": "d067c2efedf467269493",
+    "revision": "51635af3dca7c6043344",
     "url": "/loki-landing/static/css/main.d695be62.chunk.css"
   },
   {
-    "revision": "b84c7fb6bb5d803484f8",
-    "url": "/loki-landing/static/js/2.2c19c40e.chunk.js"
+    "revision": "a6d17625d1936bacbcf6",
+    "url": "/loki-landing/static/js/2.317f2bb5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/loki-landing/static/js/2.2c19c40e.chunk.js.LICENSE.txt"
+    "url": "/loki-landing/static/js/2.317f2bb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d067c2efedf467269493",
-    "url": "/loki-landing/static/js/main.b64ac66d.chunk.js"
+    "revision": "51635af3dca7c6043344",
+    "url": "/loki-landing/static/js/main.898e9fc2.chunk.js"
   },
   {
-    "revision": "a6d305d4729c33140317",
-    "url": "/loki-landing/static/js/runtime-main.efc1e157.js"
+    "revision": "859f6333c6bbf89678db",
+    "url": "/loki-landing/static/js/runtime-main.f00942c7.js"
   },
   {
     "revision": "7fd44d83d2f618696ae031fc175f00f6",

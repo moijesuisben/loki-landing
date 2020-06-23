@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/loki-landing/static/css/main.d695be62.chunk.css",
-    "main.js": "/loki-landing/static/js/main.b64ac66d.chunk.js",
-    "main.js.map": "/loki-landing/static/js/main.b64ac66d.chunk.js.map",
-    "runtime-main.js": "/loki-landing/static/js/runtime-main.efc1e157.js",
-    "runtime-main.js.map": "/loki-landing/static/js/runtime-main.efc1e157.js.map",
-    "static/js/2.2c19c40e.chunk.js": "/loki-landing/static/js/2.2c19c40e.chunk.js",
-    "static/js/2.2c19c40e.chunk.js.map": "/loki-landing/static/js/2.2c19c40e.chunk.js.map",
+    "main.js": "/loki-landing/static/js/main.898e9fc2.chunk.js",
+    "main.js.map": "/loki-landing/static/js/main.898e9fc2.chunk.js.map",
+    "runtime-main.js": "/loki-landing/static/js/runtime-main.f00942c7.js",
+    "runtime-main.js.map": "/loki-landing/static/js/runtime-main.f00942c7.js.map",
+    "static/js/2.317f2bb5.chunk.js": "/loki-landing/static/js/2.317f2bb5.chunk.js",
+    "static/js/2.317f2bb5.chunk.js.map": "/loki-landing/static/js/2.317f2bb5.chunk.js.map",
     "index.html": "/loki-landing/index.html",
-    "precache-manifest.305d4e6135463084e65e9bfcbb38d073.js": "/loki-landing/precache-manifest.305d4e6135463084e65e9bfcbb38d073.js",
+    "precache-manifest.a7af14083dcd36c717fa5d1e907b1ee0.js": "/loki-landing/precache-manifest.a7af14083dcd36c717fa5d1e907b1ee0.js",
     "service-worker.js": "/loki-landing/service-worker.js",
     "static/css/main.d695be62.chunk.css.map": "/loki-landing/static/css/main.d695be62.chunk.css.map",
-    "static/js/2.2c19c40e.chunk.js.LICENSE.txt": "/loki-landing/static/js/2.2c19c40e.chunk.js.LICENSE.txt",
+    "static/js/2.317f2bb5.chunk.js.LICENSE.txt": "/loki-landing/static/js/2.317f2bb5.chunk.js.LICENSE.txt",
     "static/media/BackgroundContact.png": "/loki-landing/static/media/BackgroundContact.7fd44d83.png",
     "static/media/aleop.png": "/loki-landing/static/media/aleop.b507f85c.png",
     "static/media/background.png": "/loki-landing/static/media/background.a2b9bef4.png",
@@ -33,9 +33,9 @@
     "static/media/uber.png": "/loki-landing/static/media/uber.ee430489.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.efc1e157.js",
-    "static/js/2.2c19c40e.chunk.js",
+    "static/js/runtime-main.f00942c7.js",
+    "static/js/2.317f2bb5.chunk.js",
     "static/css/main.d695be62.chunk.css",
-    "static/js/main.b64ac66d.chunk.js"
+    "static/js/main.898e9fc2.chunk.js"
   ]
 }
