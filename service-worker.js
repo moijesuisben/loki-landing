@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loki-landing/precache-manifest.0226406c9e9be113bbe689558b9b7ae7.js"
+  "/loki-landing/precache-manifest.7b40b2df8863a2418f5fedb349cb3762.js"
 );
 
 self.addEventListener('message', (event) => {
