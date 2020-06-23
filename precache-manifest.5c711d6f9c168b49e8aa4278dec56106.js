@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "888da254fd7172653d30dda3d9fbe9ea",
+    "revision": "b8ccf78375e0be1ac029b692ee9baac4",
     "url": "/loki-landing/index.html"
   },
   {
