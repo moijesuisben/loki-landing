@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/loki-landing/static/css/main.73576b6c.chunk.css",
-    "main.js": "/loki-landing/static/js/main.b40955b1.chunk.js",
-    "main.js.map": "/loki-landing/static/js/main.b40955b1.chunk.js.map",
+    "main.js": "/loki-landing/static/js/main.48732730.chunk.js",
+    "main.js.map": "/loki-landing/static/js/main.48732730.chunk.js.map",
     "runtime-main.js": "/loki-landing/static/js/runtime-main.f00942c7.js",
     "runtime-main.js.map": "/loki-landing/static/js/runtime-main.f00942c7.js.map",
-    "static/js/2.933222e6.chunk.js": "/loki-landing/static/js/2.933222e6.chunk.js",
-    "static/js/2.933222e6.chunk.js.map": "/loki-landing/static/js/2.933222e6.chunk.js.map",
+    "static/js/2.c22c0f87.chunk.js": "/loki-landing/static/js/2.c22c0f87.chunk.js",
+    "static/js/2.c22c0f87.chunk.js.map": "/loki-landing/static/js/2.c22c0f87.chunk.js.map",
     "index.html": "/loki-landing/index.html",
-    "precache-manifest.467a2902b5c6f4cfc33471c377e74d17.js": "/loki-landing/precache-manifest.467a2902b5c6f4cfc33471c377e74d17.js",
+    "precache-manifest.e227d572b2b2a1ad9886afe660c24013.js": "/loki-landing/precache-manifest.e227d572b2b2a1ad9886afe660c24013.js",
     "service-worker.js": "/loki-landing/service-worker.js",
     "static/css/main.73576b6c.chunk.css.map": "/loki-landing/static/css/main.73576b6c.chunk.css.map",
-    "static/js/2.933222e6.chunk.js.LICENSE.txt": "/loki-landing/static/js/2.933222e6.chunk.js.LICENSE.txt",
+    "static/js/2.c22c0f87.chunk.js.LICENSE.txt": "/loki-landing/static/js/2.c22c0f87.chunk.js.LICENSE.txt",
     "static/media/BackgroundContact.png": "/loki-landing/static/media/BackgroundContact.7fd44d83.png",
     "static/media/aleop.png": "/loki-landing/static/media/aleop.b507f85c.png",
     "static/media/background.png": "/loki-landing/static/media/background.a2b9bef4.png",
@@ -19,22 +19,25 @@
     "static/media/bicloo.png": "/loki-landing/static/media/bicloo.d829e33b.png",
     "static/media/cunia.css": "/loki-landing/static/media/cunia.debdcb95.woff2",
     "static/media/frenchTech.png": "/loki-landing/static/media/frenchTech.85c69fcb.png",
+    "static/media/header.png": "/loki-landing/static/media/header.bf597e7b.png",
     "static/media/heetch.png": "/loki-landing/static/media/heetch.03ef99d4.png",
     "static/media/jcdecaux.png": "/loki-landing/static/media/jcdecaux.aeccb1ce.png",
     "static/media/lime.png": "/loki-landing/static/media/lime.7ffc1d95.png",
     "static/media/logo.png": "/loki-landing/static/media/logo.f38383a7.png",
     "static/media/marguerite.png": "/loki-landing/static/media/marguerite.3bfef63c.png",
     "static/media/ministere.png": "/loki-landing/static/media/ministere.ba460962.png",
-    "static/media/mobile-1.gif": "/loki-landing/static/media/mobile-1.e909c9b5.gif",
     "static/media/mobileDots.png": "/loki-landing/static/media/mobileDots.392b59b4.png",
     "static/media/sncf.png": "/loki-landing/static/media/sncf.de1e9566.png",
     "static/media/star.png": "/loki-landing/static/media/star.514078a5.png",
+    "static/media/step1.png": "/loki-landing/static/media/step1.98207076.png",
+    "static/media/step2.png": "/loki-landing/static/media/step2.61db9cd9.png",
+    "static/media/step3.png": "/loki-landing/static/media/step3.ae0bc597.png",
     "static/media/tan.png": "/loki-landing/static/media/tan.28537383.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f00942c7.js",
-    "static/js/2.933222e6.chunk.js",
+    "static/js/2.c22c0f87.chunk.js",
     "static/css/main.73576b6c.chunk.css",
-    "static/js/main.b40955b1.chunk.js"
+    "static/js/main.48732730.chunk.js"
   ]
 }
